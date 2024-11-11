@@ -1,7 +1,7 @@
 
 ## PetSys - Sistema de doação e adoção de pets
 
-Sistema consiste em cadastrar pets e adotantes afim de facilitar a doação e adoção.  
+Sistema consiste em cadastrar pets e adotantes a fim de facilitar a doação e adoção.  
 
 ## Para testes é necessário a instalação do nodejs (https://nodejs.org/en/download/package-manager)
 
